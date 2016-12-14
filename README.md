@@ -1,4 +1,3 @@
-# siorg
 <strong>Sistem Informasi Organisasi</strong>
 
 Tugas Rekayasa Perangkat Lunak <br><br>
