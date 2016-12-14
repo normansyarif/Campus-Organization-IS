@@ -1,7 +1,7 @@
 # siorg
 Sistem Informasi Organisasi
 
-Tugas Rekayasa Perangkat Lunak
-Norman Syarif
-F1E115017
-Universitas Jambi
+Tugas Rekayasa Perangkat Lunak <br>
+Norman Syarif<br>
+F1E115017<br>
+Universitas Jambi<br>
